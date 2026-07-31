@@ -2,7 +2,7 @@
 
 Me chamo Luis Henrique finalizei meu ensino médio no EPMM. Atualmente cursando DS no SENAI, tenho 19 anos sou uma pessoa que se dedica bastante e sempre estou em busca de aprender mais para evoluir constantemente.
 
-Me apeguei a área da programação assistindo filme e series que tinham algo relacionado a área e decidi querer isso pra minha vida também.
+Me apeguei a área da programação assistindo filmes e series que tinham algo relacionado a área e decidi querer isso pra minha vida também.
 
 ---
 

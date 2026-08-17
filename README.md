@@ -51,9 +51,3 @@ Me apeguei a área da programação assistindo filmes e series que tinham algo r
   height="200" 
   src="https://meu-readme-stats-beige.vercel.app/meu-card?username=lzynzzX&update=2" 
 />
-<p align="center">
-  <img
-    height="100em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lzynzzX&layout=compact&theme=tokyonight"
-  />
-</p>

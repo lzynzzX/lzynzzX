@@ -46,11 +46,11 @@ Me apeguei a área da programação assistindo filmes e series que tinham algo r
 ---
 ## 📊 Estatísticas
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=lzynzzX&show_icons=true&theme=tokyonight"
-  />
+<img 
+  alt="Most Used Languages" 
+  height="200" 
+  src="https://meu-readme-stats-beige.vercel.app/meu-card?username=lzynzzX&update=2" 
+/>
 <p align="center">
   <img
     height="100em"
